@@ -38,9 +38,9 @@ if (isset ( $_GET ['logout'] )) {
 <html>
 <head>
 	<title>Live Chat System</title>
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="bootstrap.min.css">
+	<script type="text/javascript" src="jquery.min.js"></script>
 </head>
 <body>
 <?php
